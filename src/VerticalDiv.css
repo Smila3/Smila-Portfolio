@@ -1,0 +1,32 @@
+.vertical-container{
+    display: flex;
+}
+
+.left-panel{
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #cccccc00;
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.right-panel {
+    display: flex;
+    flex-direction: column; /* Make sure the content inside the right panel is displayed in a column */
+    align-items: center; /* Center the content horizontally in the right panel */
+    width: 50%;
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #cccccc00;
+    box-sizing: border-box;
+  }
+
+.vertical-container p {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    background-color: #edf3ea;
+    border: 1px solid #86da86;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
