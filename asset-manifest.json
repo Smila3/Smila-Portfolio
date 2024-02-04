@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Smila-Portfolio/static/css/main.1e151fd5.css",
+    "main.js": "/Smila-Portfolio/static/js/main.1c9442c9.js",
+    "static/js/787.020cb2b5.chunk.js": "/Smila-Portfolio/static/js/787.020cb2b5.chunk.js",
+    "static/media/logo.svg": "/Smila-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Smila-Portfolio/index.html",
+    "main.1e151fd5.css.map": "/Smila-Portfolio/static/css/main.1e151fd5.css.map",
+    "main.1c9442c9.js.map": "/Smila-Portfolio/static/js/main.1c9442c9.js.map",
+    "787.020cb2b5.chunk.js.map": "/Smila-Portfolio/static/js/787.020cb2b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e151fd5.css",
+    "static/js/main.1c9442c9.js"
+  ]
+}
