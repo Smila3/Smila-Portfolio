@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+}
+
+.Smila{
+  color:rgb(33, 144, 31);
+  font-size: 1.5cm;
+  font-style: oblique;
+
+}
+
+.Git-logo {
+  height: 0.5in;
+  width: 0.5in;
+  pointer-events: none;
+  margin-right: 5%;
+}
+.Email-logo{
+  height: 0.5in;
+  width: 0.5in;
+  pointer-events: none;
+  /*margin-left: 0.5%;*/
+}
+.Linked-logo{
+  height: 0.5in;
+  width: 0.5in;
+  pointer-events: none;
+  margin-left: 5%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Git-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .Email-logo{
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .Linked-logo{
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: rgb(164, 224, 170);
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: right;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+.title{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.My-github{
+  color:#6bbe0d;
+  font-size: 0.5cm;
+  margin-left:1%;
+}
+
+.My-email {
+  color: #6bbe0d;
+  font-size: 0.5cm;
+  margin-left: 3%;
+}
+
+.My-linkedin{
+  color: #6bbe0d;
+  font-size: 0.5cm;
+  margin-left: 3%;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Header1{
+  text-align: left;
+  color: #6bbe0d;
+  margin-left: 3%;
+  font-size: 2cm;
+}
+
+.About1{
+ font-size: 0.6cm ;
+ text-align: left;
+ width: 90%;
+ margin-left: 3%;
+}
+
+.Description{
+ color: black;
+}
+
+.Button{
+  padding: 10px 15px;
+  font-size: 15px;
+  font-family:'Lucida Sans Unicode', 'Lucida Grande';
+  font-style: italic;
+  cursor: pointer;
+}
+
+/*BACK IN BUSINESS*/
+
+.Table{
+  margin-left: 20%;
+  width: 70%;
+  flex: 1;
+}
+
+.Header-Left, .Header-Right{
+  font-size: 1cm;
+  /*background-color: #a9e069;*/
+  font-style: oblique;
+  color: rgb(79, 199, 49);
+}
+
+.Project{
+ font-style: italic;
+ font-size: 0.5cm;
+}
+
+.Used{
+  width: 60%;
+  text-align: left;
+  font-size: 0.5cm;
+}
+
+.Foot{
+  background-color: rgb(164, 224, 170);
+  color:aliceblue
+  
+}
